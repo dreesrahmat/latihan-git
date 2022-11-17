@@ -1,6 +1,8 @@
 <?php
 
-function panggilAksi()
-{
-   echo "Coba melakukan perubahan";
+class Coba {
+   public function panggilAksi()
+   {
+      echo "Hai, ini lagi latihan commit";
+   }
 }
