@@ -1,3 +1,6 @@
 <?php
 
-echo "Melakukan pelatihan dengan desktop github";
+function panggilAksi()
+{
+   echo "Coba melakukan perubahan";
+}
